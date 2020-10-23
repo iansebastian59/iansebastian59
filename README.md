@@ -3,7 +3,7 @@
 (For DSC) <br>
 Nama      : Ian Sebastian <br>
 NIM       : 10118024 <br>
-[LinkedIn](https://www.linkedin.com/ian-sebastian)
+[My LinkedIn Profile](https://www.linkedin.com/ian-sebastian)
 
 I'm currently an undergraduate student in Bandung Institute of Technology, majoring in mathematics. 
 At the moment, I am learning the fundamentals of Data Science and Machine Learning. 

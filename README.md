@@ -1,8 +1,9 @@
 ### Salutations! 👋
 
 (For DSC) <br>
-Nama : Ian Sebastian <br>
-NIM  : 10118024 <br>
+Nama      : Ian Sebastian <br>
+NIM       : 10118024 <br>
+Instagram : instagram.com/iansebastian._
 
 I'm currently an undergraduate student in Bandung Institute of Technology, majoring in mathematics. 
 At the moment, I am learning the fundamentals of Data Science and Machine Learning. 
